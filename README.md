@@ -12,5 +12,9 @@ sh run.sh
 
 If you find this code useful, please kindly cite the following paper:
 <pre>
-
+@article{ge2022lifelong,
+  title={Lifelong Person Re-identification by Pseudo Task Knowledge Preservation},
+  author={Ge, Wenhang and Du, Junlong and Wu, Ancong and Xian, Yuqiao and Yan, Ke and Huang, Feiyue and Zheng, Wei-Shi},
+  year={2022}
+}
 </pre>

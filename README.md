@@ -1,5 +1,5 @@
 # Lifelong Person Re-identification by Pseudo Task Knowledge Preservation(PTKP)
-The official implementation for the [Lifelong Person Re-identification by Pseudo Task Knowledge Preservation](https://arxiv.org/abs/2107.13904) which is accepted by AAAI-2022.
+The official implementation for the [Lifelong Person Re-identification by Pseudo Task Knowledge Preservation](https://ojs.aaai.org/index.php/AAAI/article/view/19949) which is accepted by AAAI-2022.
 
 ## Train and test
 
